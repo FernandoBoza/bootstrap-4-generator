@@ -13,6 +13,18 @@ Tether
 Babel for ECMAScript 2015 javascript, ES6
 Gulp for custom and Bootstrap sass files
 
+# Getting Started
+```git
+git clone https://github.com/FernandoBoza/bootstrap-4-generator.git
+mv bootstrap-4-generator YOURPROJECT NAME
+//change your dir name to yours via cmd line or however
+```
+```javascript
+npm i
+gulp serve
+// start up gulp watch for all sass and main.js files
+```
+
 # Gulp Ready 
 you can use gulp ready task to compile and minify your sass and es6 files
 
