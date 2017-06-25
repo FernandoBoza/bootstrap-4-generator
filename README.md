@@ -2,14 +2,6 @@
 A boostrap generator using Boostrap 4 Alpha 6 sass source files and compiled with Gulp for 
 sass and es6.
 
-To code and auto-update on non node projects you can use [live-server](http://tapiov.net/live-server/)
-```
-npm install -g live-server
-
-live-server
-// Make sure you're within the proj directory
-```
-
 ### Index
 * [Getting Started](#getting-started)
 * [Gulp Tasks](#gulp-ready)
@@ -97,4 +89,12 @@ note that it won't get minified, to do so create a new task in the gulpfile like
         .pipe(rename('index.min.js'))
         .pipe(gulp.dest('./js'));
     });
+```
+
+To code and auto-update on non node projects you can use [live-server](http://tapiov.net/live-server/)
+```
+npm install -g live-server
+
+live-server
+// Make sure you're within the proj directory
 ```
