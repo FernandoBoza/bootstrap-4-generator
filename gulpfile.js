@@ -1,3 +1,4 @@
+//
 // All compiling task minifys all files
 
 const gulp = require('gulp');
