@@ -1,5 +1,5 @@
 {
-  "name": "bs4-generator-npm",
+  "name": "bootstrap-4-generator",
   "version": "1.0.0",
   "description": "npm generator for bootstrap 4 projects",
   "main": "index.js",
