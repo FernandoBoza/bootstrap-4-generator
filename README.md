@@ -2,6 +2,17 @@
 A boostrap generator using Boostrap 4 Alpha 6 sass source files and compiled with Gulp for 
 sass and es6.
 
+## Included 
+
+Index html file ready with links and scripts linked.
+
+Bootstrap 4 sass files, javascript
+jQuery 3.1.1 slim
+Tether
+
+Babel for ECMAScript 2015 javascript, ES6
+Gulp for custom and Bootstrap sass files
+
 # Gulp Ready 
 you can use gulp ready task to compile and minify your sass and es6 files
 
