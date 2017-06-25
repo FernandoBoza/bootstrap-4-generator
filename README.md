@@ -20,9 +20,17 @@ Babel for ECMAScript 2015 javascript, ES6
 Gulp for custom and Bootstrap sass files
 
 # Getting Started
+
+after intializing npm, add this script to your scripts
 ```javascript
+"build": "node config/build.js"
+```
+
+and back in your terminal npm i and gulp serve
+
+```
 npm i bootstrap-4-generator -S
-node node_modules/bootstrap-4-generator/config/build.js
+npm run build
 npm i
 gulp serve
 // start up gulp watch for all sass and main.js files
