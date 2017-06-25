@@ -4,7 +4,8 @@
   "description": "npm generator for bootstrap 4 projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node config/build.js"
   },
   "author": "Fernando Boza <hi@fernandoboza.com> (http://fernandoboza.com)",
   "license": "ISC",
