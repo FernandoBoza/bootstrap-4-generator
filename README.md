@@ -4,9 +4,9 @@ sass and es6.
 
 ### Index
 * [Getting Started](#getting-started)
-* [Gulp Tasks](#gulp-tasks)
+* [Gulp Tasks](#gulp-ready)
 * [Sass](#sass)
-* [Ecmascript 2015 / Babel](#ecmascript-2015-/-babel)
+* [Ecmascript 2015 / Babel](#Ecmascript-2015-/-Babel)
 
 ## Included 
 
