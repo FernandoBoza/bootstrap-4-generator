@@ -22,6 +22,7 @@ Gulp for custom and Bootstrap sass files
 # Getting Started
 ```javascript
 npm i bootstrap-4-generator -S
+node node_modules/bootstrap-4-generator/config/build.js
 npm i
 gulp serve
 // start up gulp watch for all sass and main.js files
