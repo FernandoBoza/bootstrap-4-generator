@@ -1,0 +1,1 @@
+{"version":3,"file":"main.min.css","sources":["main.scss"],"sourcesContent":["\n //Place here your custom scss code\n\nbody {\n    padding: 20px 20px\n}\n\n\n"],"mappings":"AAGA,AAAA,IAAI,AAAC,CACD,OAAO,CAAE,SACZ,CAAC","names":[]}
