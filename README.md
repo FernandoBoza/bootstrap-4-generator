@@ -12,8 +12,8 @@ sass and es6.
 
 Index html file ready with links and scripts linked.
 
-Bootstrap 4 sass files, javascript
-jQuery 3.1.1 slim
+Bootstrap 4 sass files, javascript<br>
+jQuery 3.1.1 slim<br>
 Tether
 
 Babel for ECMAScript 2015 javascript, ES6
@@ -67,10 +67,10 @@ and change it to
 ```
 
 You have the option to change the output style to 
-Markup : * nested
-Markup : * compact
-Markup : * expanded
-Markup : * compressed
+* nested
+* compact
+* expanded
+* compressed
 
 # ECMAScript 2015 / Babel
 There is a index.js file for your custom code. If you're writing ES6 code, the gulp serve will transpile and minify it to the dir es2015 within the js dir.
