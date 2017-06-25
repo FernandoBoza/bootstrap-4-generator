@@ -2,7 +2,7 @@
 A boostrap generator using Boostrap 4 Alpha 6 sass source files and compiled with Gulp for 
 sass and es6.
 
-#Gulp Ready 
+# Gulp Ready 
 you can use gulp ready task to compile and minify your sass and es6 files
 
 ```javascript
