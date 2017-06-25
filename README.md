@@ -6,7 +6,7 @@ sass and es6.
 * [Getting Started](#getting-started)
 * [Gulp Tasks](#gulp-ready)
 * [Sass](#sass)
-* [Ecmascript 2015 / Babel](#Ecmascript-2015-/-Babel)
+* [Ecmascript 2015 / Babel](#ecmascript-2015--babel)
 
 ## Included 
 
