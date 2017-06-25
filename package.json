@@ -18,5 +18,7 @@
     "gulp-sourcemaps": "^1.6.0",
     "gulp-uglify": "^2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "fs-extra": "^3.0.1"
+  }
 }
