@@ -23,7 +23,7 @@ Gulp for custom and Bootstrap sass files
 
 after intializing npm, add this script to your scripts
 ```javascript
-"build": "node config/build.js"
+"build": "node node_modules/bootstrap-4-generator/config/build.js"
 ```
 
 and back in your terminal npm i and gulp serve
