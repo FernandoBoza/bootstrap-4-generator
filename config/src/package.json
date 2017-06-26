@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node config/build.js"
+    "build": "node node_modules/bootstrap-4-generator/config/build.js"
   },
   "author": "Fernando Boza <hi@fernandoboza.com> (http://fernandoboza.com)",
   "license": "ISC",
