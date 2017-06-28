@@ -55,7 +55,7 @@ gulp.task('transpile-compile-es6', () => {
 // run compile-boostrap OR custom-sass first then this task
 gulp.task('watchFile', ['compile-bs-sass', 'compile-custom-sass'], function() {
     gulp.watch('./scss/boostrap-scss/**.*', ['compile-bs-sass']);
-    gulp.watch('./scss/custom-scss/main.scss', ['compile-custom-sass']);
+    gulp.watch('./scss/custom-scss/**.*', ['compile-custom-sass']);
     gulp.watch('./js/index.js', ['transpile-compile-es6']);
 });
 
