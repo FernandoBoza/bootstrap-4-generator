@@ -25,6 +25,11 @@ fs.copy('./node_modules/bootstrap-4-generator/config/src/.gitignore', './.gitign
   console.log('success!')
 }) 
 
+fs.copy('./node_modules/bootstrap-4-generator/config/src/.npmignore', './.npmignore', err => {
+  if (err) return console.error(err)
+  console.log('success!')
+}) 
+
 fs.copy('./node_modules/bootstrap-4-generator/config/src/gulpfile.js', './gulpfile.js', err => {
   if (err) return console.error(err)
   console.log('success!')
