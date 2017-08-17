@@ -1,5 +1,5 @@
 # Bootstrap 4 Generator
-A boostrap generator using Boostrap 4 Alpha 6 sass source files and compiled with Gulp for 
+A boostrap generator using Boostrap Currently v4.0.0-beta sass source files and compiled with Gulp for 
 sass and es6.
 
 ### Index
