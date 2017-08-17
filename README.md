@@ -1,4 +1,5 @@
-# Bootstrap 4 Generator [![Travis][build-badge]][build] [![npm][npm-badge]][npm]
+# Bootstrap 4 Generator [![Travis][build-badge]][build]
+[![Travis][build-badge]][build]
 A boostrap generator using Boostrap Currently v4.0.0-beta sass source files and compiled with Gulp for 
 sass and es6.
 
