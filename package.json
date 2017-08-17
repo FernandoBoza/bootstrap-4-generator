@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-4-generator",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "npm generator for bootstrap 4 projects",
   "main": "index.js",
   "scripts": {
