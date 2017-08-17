@@ -1,5 +1,5 @@
-# Bootstrap 4 Generator
-A boostrap generator using Boostrap 4 Alpha 6 sass source files and compiled with Gulp for 
+# Bootstrap 4 Generator [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/FernandoBoza/bootstrap-4-generator) [![npm](https://img.shields.io/badge/npm-v1.0.13-brightgreen.svg)](https://www.npmjs.com/package/bootstrap-4-generator) [![version](https://img.shields.io/badge/license-MIT-blue.svg)](http://fernandoboza.com)
+A boostrap generator using Boostrap Currently v4.0.0-beta sass source files and compiled with Gulp for 
 sass and es6.
 
 ### Index
